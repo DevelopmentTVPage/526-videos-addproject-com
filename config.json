@@ -10,6 +10,34 @@
         "loginId": "1758799",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "addproject.com"
+        "cookiedomain": "addproject.com",
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.addproject.com"
+            }
+        },
+        "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.addproject.com"
+            }
+        }
     }
 }
